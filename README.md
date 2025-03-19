@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekSharma0011
-- 👀 I’m interested in coding, Mathematics, Artificial Intelligence
-- 🌱 I’m currently learning .Python, Java, Systems Programming and Networking
+- 👀 I’m interested in Mathematics, Coding, Algorithms and Finance
+- 🌱 I use Python, C++ and C for my projects.
 - 💞️ I’m looking to collaborate on any project that will improve my skills and enhance my learning
 - 📫 Email : abhishekkrsharma1999@gmail.com
 
