@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mathematics, Coding, Algorithms and Finance
 - 🌱 I use Python, C++ and C for my projects.
 - 💞️ I’m looking to collaborate on any project that will improve my skills and enhance my learning
-- 📫 Email : abhishekkrsharma1999@gmail.com
+
 
 <!---
 abhishekSharma0011/abhishekSharma0011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
