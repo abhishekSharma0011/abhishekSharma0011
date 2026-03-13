@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishekSharma0011
-- 👀 I’m interested in Mathematics, Coding, Algorithms and Finance
-- 🌱 I use Python, C++ and C for my projects.
-- 💞️ I’m working on Fractals and Financial Projects.
+- 👀 I’m interested in Whatever is interesting. 
+- 🌱 I use AI for my projects.
+- 💞️ I’m working on Myself.
 
 
 <!---
